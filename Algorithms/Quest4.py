@@ -1,5 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
+from scipy.stats import pearsonr
+
 
 def numbers() -> None:
     number = 0
@@ -7,11 +9,14 @@ def numbers() -> None:
     counter = 0
     sorted_list = []
     list = []
+    send_to_pearson = []
     while(not number == -1):
         print("enter a number")
         number = int(input())
         if not number == -1:
             list.append(number)
+    for i in list:
+        send_to_pearson.append(i)
     for i in list:
         sum += i
     avg = sum / len(list)
@@ -39,6 +44,15 @@ def numbers() -> None:
     ypoints = np.array(col_array)
     plt.plot(xpoints, ypoints, 'o')
     plt.show()
+    print(pearson_correlation(send_to_pearson))
+
+
+def pearson_correlation(numbers_list: []):
+    numbers_index = []
+    for i in range(1, len(numbers_list) + 1):
+        numbers_index.append(i)
+    pearson, _ = pearsonr(numbers_index, numbers_list)
+    return pearson
 
 
 if __name__ == '__main__':
