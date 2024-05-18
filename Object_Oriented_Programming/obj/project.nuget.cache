@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vd8Bonfjx1dfyenr0LJXIDrlas4sVin1G/qGCFZDTtYT2Li0xTEr3MaCdFR2bOpHpjUmHWNJoH3A3G5KAel0Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nogad\\source\\repos\\Object_Oriented_Programming\\Object_Oriented_Programming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nogad\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\nogad\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\nogad\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nogad\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

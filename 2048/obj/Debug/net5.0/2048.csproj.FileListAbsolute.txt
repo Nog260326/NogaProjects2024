@@ -1,0 +1,16 @@
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\2048.exe
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\2048.deps.json
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\2048.runtimeconfig.json
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\2048.runtimeconfig.dev.json
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\2048.dll
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\ref\2048.dll
+C:\Users\nogad\source\repos\2048\bin\Debug\net5.0\2048.pdb
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.csproj.AssemblyReference.cache
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.AssemblyInfoInputs.cache
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.AssemblyInfo.cs
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.csproj.CoreCompileInputs.cache
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.dll
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\ref\2048.dll
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.pdb
+C:\Users\nogad\source\repos\2048\obj\Debug\net5.0\2048.genruntimeconfig.cache
